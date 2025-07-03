@@ -1,0 +1,8 @@
+version: 2
+
+
+sources:
+  - name: raw_teste
+    schema: prod        
+    tables:
+      - name: prod_crm
